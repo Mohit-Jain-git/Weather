@@ -41,4 +41,4 @@ document
       weather.search();
     }
   });
-weather.fetchWeather("London");
+weather.fetchWeather("Mysore");
